@@ -1,8 +1,9 @@
                                                                   C# App Usage
+// This Dll is Primiarly Used for creating cheats for video game.
 
 //Getting Started
 Open Visual Studio and make a new  project.
-Add Porject reference to MemEdit.dll.
+Add Project reference to MemEdit.dll.
 Project » Add Reference » Browse… » Select MemEdit.dll
 Check if your game requires 64bit compiling.
 Raise app privileges.
